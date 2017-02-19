@@ -5,8 +5,13 @@ This is a really great paper that is both complex and straightforward. This pape
 
 * [An Improved Illumination Model for Shaded Display](https://www.cs.drexel.edu/~david/Classes/CS586/Papers/p343-whitted.pdf)
 
-* [The Rendering Equation](http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S08/lectures/kajiya.pdf)
 * [GigaVoxels : Ray-Guided Streaming for Efficient and Detailed Voxel Rendering](http://maverick.inria.fr/Publications/2009/CNLE09/CNLE09.pdf) - [Web page](http://maverick.inria.fr/Publications/2009/CNLE09/) - [Project page](http://gigavoxels.imag.fr/) - [Video](https://www.youtube.com/watch?v=HScYuRhgEJw)
+
+* [Continuous shading of curved surfaces](http://page.mi.fu-berlin.de/block/htw-lehre/wise2015_2016/bel_und_rend/skripte/gouraud1971.pdf) by Henri Gouraud (1971)
+
+* [Illumination for computer generated pictures](http://www.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf) by Bui Tuong Phong (1975)
+
+* [The Rendering Equation](http://www.cs.rpi.edu/~cutler/classes/advancedgraphics/S08/lectures/kajiya.pdf) by James T. Kajiya (1986)
 
 ### Surface reconstruction
 * [Poisson surface reconstruction](http://research.microsoft.com/en-us/um/people/hoppe/poissonrecon.pdf) - [Code](http://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version5.71/)
@@ -30,6 +35,15 @@ This is a really great paper that is both complex and straightforward. This pape
   application of grammar-driven generation:
   - [Procedural Modeling of Buildings](http://www.peterwonka.net/Publications/pdfs/2006.SG.Mueller.ProceduralModelingOfBuildings.final.pdf)
   - [Instant Architecture](http://www.peterwonka.net/Publications/pdfs/2003.SG.Wonka.InstantArchitecture.high.pdf)
+
+### Mesh Editing
+* [PushPull++](http://peterwonka.net/Publications/pdfs/2014.SG.Lipp.PushPull.pdf)
+
+    > Of all the ways to manipulate a 3D mesh, push/ technique popularized by SketchUp is one of the most approachable and fun. PushPull++ is a recent paper that elaborates on the technique, cleaning up a lot of edge cases and unlocking new features, using wonderfully straightforward math. The potential for 3D modeling tools or procedural mesh generation APIs built on these simple ideas is very exciting.
+    > The paper presents the technique and the tool that the authors built. I will focus on the technique, as s the part I loved more in this paper (quote by Ramsey Nasser).
+    
+### Image Processing
+* :scroll: [Imaging Vector Fields Using Line Integral Convolution](http://cs.brown.edu/courses/csci2370/2000/1999/cabral.pdf) by Brian Cabral and Leith Leedom    
 
 ### Shape grammars
 
