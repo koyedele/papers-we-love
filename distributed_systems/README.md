@@ -9,7 +9,7 @@
 
 ## External Papers
 
-* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=5A960A7B16A7BB42A99D7B6EFC30FB25?doi=10.1.1.41.7628&rep=rep1&type=pdf)
+* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](https://www.researchgate.net/profile/Ellen-Isaacs/publication/220168963_Why_do_users_like_video/links/02e7e5186b67219c70000000/Why-do-users-like-video.pdf#page=89)
 
 * [A simple totally ordered broadcast protocol](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
@@ -35,7 +35,7 @@
 
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 
-* [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.itu.dk/stud/speciale/bepjea/xwebtex/litt/practical-byzantine-fault-tolerance-and-proactive-recovery.pdf)
+* [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.microsoft.com/research/wp-content/uploads/2017/01/p398-castro-bft-tocs.pdf)
 
 * [Pregel: A System for Large-Scale Graph Processing](http://kowshik.github.io/JPregel/pregel_paper.pdf)
 
@@ -59,7 +59,7 @@
 
 * [There Is More Consensus in Egalitarian Parliaments](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
 
-* [Transactional Client-Server Cache Consistency: Alternatives and Performance](http://www.cs.berkeley.edu/~franklin/Papers/p315-franklin.pdf)
+* [Transactional Client-Server Cache Consistency: Alternatives and Performance](http://drum.lib.umd.edu/bitstream/handle/1903/751/CS-TR-3511.pdf)
 
 * [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
 
@@ -124,7 +124,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Implementing the Omega failure detector in the crash-recovery failure model](implementing-the-omega-failure-detector-in-crash-recovery-failure-model.pdf)
 
-* :scroll: [Impossibility of Distributed Consensuswith One Faulty Process](impossibility-of-consensus-with-one-faulty-process.pdf)
+* :scroll: [Impossibility of Distributed Consensus with One Faulty Process](impossibility-of-consensus-with-one-faulty-process.pdf)
 
 * :scroll: [In Search of an Understandable Consensus Algorithm](in-search-of-an-understandable-consensus-algorithm.pdf)
 
@@ -156,7 +156,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Signal/Collect: Graph Algorithms for the (Semantic) Web](signal-%26-collect-graph-algorithms-for-the-\(semantic\)-web.pdf)
 
-* :scroll: [Slution of a Problem in
+* :scroll: [Solution of a Problem in
 Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
 
 * :scroll: [Sparse Partitions](sparse-partitions.pdf)
@@ -165,7 +165,7 @@ Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-
 
 * :scroll: [The Akamai Network: A Platform for High-Performance Internet Applications](the-akamai-network.pdf)
 
-* :scroll: [The Dining CryptographersProblem:
+* :scroll: [The Dining Cryptographers Problem:
 Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-problem.pdf)
 
 * :scroll: [Tor: The Second-Generation Onion Router](tor-the-second-generation-onion-router.pdf)
@@ -176,7 +176,7 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * :scroll: [￼￼￼￼￼￼￼￼￼￼Viewing Control Structures as Patterns of Passing Messages](viewing-control-structures-as-patterns-of-passing-messages.pdf)
 
-* :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](warp-multi-key-transactions-for-key-value-stores.pdf)
+* :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](../datastores/warp-multi-key-transactions-for-key-value-stores.pdf)
 
 * :scroll: [Zab: High-performance broadcast for primary-backup systems](zab-high-performance-broadcast-for-primary-backup-systems.pdf)
 
@@ -191,7 +191,7 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 
-* [f4: Facebook’s Warm BLOB Storage System](http://www-bcf.usc.edu/~wyattllo/papers/f4-osdi14.pdf)
+* [f4: Facebook’s Warm BLOB Storage System](http://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf)
 
 * [The Case for Determinism in Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/determinism-vldb10.pdf)
 
@@ -211,15 +211,15 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 
 * [F1: A Distributed SQL Database That Scales](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf)
 
-* [HaLoop: Efficient Iterative Data Processing on Large Clusters](http://www.ics.uci.edu/~yingyib/papers/HaLoop_camera_ready.pdf)
+* [HaLoop: Efficient Iterative Data Processing on Large Clusters](http://homes.cs.washington.edu/~billhowe/pubs/HaLoop.pdf)
 
 * [HyperDex: A Distributed, Searchable Key-Value Store](https://cs.uwaterloo.ca/~bernard/hyperdex.pdf)
 
-* [Introduction to a System for Distributed Databases SDD-1](http://www.few.vu.nl/~kgr700/sdd1.pdf)
+* [Introduction to a System for Distributed Databases SDD-1](http://people.eecs.berkeley.edu/~wong/wong_pubs/wong73.pdf)
 
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
 
-* [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf)
+* [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p172-terry.pdf)
 
 * [Map-Reduce-Merge: Simplified Relational Data Processing on Large Clusters](http://www.cs.duke.edu/courses/cps399.28/current/papers/sigmod07-YangDasdanEtAl-map_reduce_merge.pdf)
 
@@ -269,4 +269,4 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 An Analysis of Production Failures in Distributed
 Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 
-* :scroll: [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/IronFleet-twocol.pdf)
+* :scroll: [IronFleet: Proving Practical Distributed Systems Correct](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/10/ironfleet.pdf))
